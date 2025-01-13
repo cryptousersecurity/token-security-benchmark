@@ -64,7 +64,7 @@ Create a folder under [src](https://github.com/cryptousersecurity/token-risk-cla
 Add the new risk type to the `Risk Types` list under `nav` section in [mkdocs.yml](https://github.com/cryptousersecurity/token-risk-classification/blob/main/mkdocs.yml#L17).
 
 ## Update Documentation
-Everytime you add a new risk type or add new risk samples to an existing risk type, please update the documentation by executing the following command:
+Every time you add a new risk type or add new risk samples to an existing risk type, please update the documentation by executing the following command:
 ```bash
 make generate-docs
 ```
